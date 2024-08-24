@@ -1,5 +1,5 @@
 # DekaBank-BERT-Transformer: Fine-Tuning and Evaluation
-
+(From a Hackathon hosted by Deka)
 ## Overview
 
 This repository contains a Jupyter Notebook that demonstrates the fine-tuning and evaluation of a BERT-based model for sequence classification tasks using PyTorch and Hugging Face's Transformers library. The notebook walks through the process of training a BERT model on a custom dataset, monitoring the training process, and evaluating model performance using accuracy metrics.
